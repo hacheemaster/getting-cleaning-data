@@ -1,6 +1,6 @@
-# getting-cleaning-data
+# Getting and Cleaning Data
 
-This script works by downloading and cleaning [this](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+This script works by downloading [this data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 and cleaning it by using the process below:
 
 1. Merges the training and the test sets to create one data set.
